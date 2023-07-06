@@ -1,4 +1,4 @@
 # ignore all .pdf files
 *.pdf
-# ignore all .iml files
-*.iml
+# ignore Kundu-as2.iml file
+Kundu-as2.iml
