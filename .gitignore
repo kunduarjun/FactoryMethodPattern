@@ -1,4 +1,2 @@
 # ignore all .pdf files
 *.pdf
-# ignore Kundu-as2.iml file
-Kundu-as2.iml
